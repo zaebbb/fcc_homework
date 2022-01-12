@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Vladimir Proger",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -7,7 +8,6 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Vladimir Proger",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
